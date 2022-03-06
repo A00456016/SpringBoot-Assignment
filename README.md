@@ -44,3 +44,5 @@ DELETE : http://localhost:8080/hotels/1
     "check_in": "01-01-2022",
     "check_out": "02-03-2022"
 }
+
+reference: https://andriperera.medium.com/create-a-rest-api-in-spring-boot-with-mysql-b250ff3aaa9b
