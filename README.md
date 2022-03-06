@@ -1,6 +1,16 @@
 # SpringBoot-Assignment
 A00456016 - Harsh Panchal
 
+Database queries:
+
+CREATE DATABASE DB;
+
+create table DB.hotels(
+id int NOT NULL AUTO_INCREMENT primary key,
+name varchar(50) NOT NULL,
+check_in varchar(50) NOT NULL,
+check_out varchar(50) NOT NUll);
+
 Through this rest api you can perform below operations:
 GET, POST, PUT, DELETE on postman app.
 
